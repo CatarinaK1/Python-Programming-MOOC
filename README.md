@@ -1,4 +1,4 @@
-# Python Programming MOOC course
+# Python Programming MOOC 
 
 This repository serves as a collection of exercises I have completed for the two courses offered by the Department of Computer Science at the University of Helsinki (MOOC).  
 
