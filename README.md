@@ -17,6 +17,6 @@ More about MOOC https://www.mooc.fi/en/
 ## Getting Started:
 
 All of the exercises were completed utilizing Python.  
-Please ensure you have Python installed on your system.  
+Please ensure you have it installed on your system.  
 
-If Python is not installed, download and install Python from the official website (https://www.python.org/).  
+If it is not already installed, download and install Python from the official website (https://www.python.org/).  
