@@ -1,0 +1,9 @@
+word = input("Please type in a string:")
+wordIndex = -1
+stop = 0
+
+while stop != len(word):
+
+    print(word[wordIndex:])
+    wordIndex -= 1
+    stop += 1
