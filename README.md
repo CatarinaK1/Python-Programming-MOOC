@@ -11,8 +11,8 @@ More about MOOC https://www.mooc.fi/en/
 
 ## Courses Included:
 
-  Introduction to Programming (BSCS1001, 5 cr)  
-  Advanced Course in Programming (BSCS1002, 5 cr)  
+  Introduction to Programming (BSCS1001, 5 cr).  
+  Advanced Course in Programming (BSCS1002, 5 cr).  
 
 ## Getting Started:
 
